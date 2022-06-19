@@ -1,0 +1,12 @@
+Whitelist Contract Address: 0x3Dad90fB772dFdf50E1a0D46b20bf82212bDfb2d
+
+Crypto Devs Contract Address: 0x27D811922304464C7D5464Ec969f8D66985d13FD
+
+Crypto Devs NFT Contract Address: 0x43d45F8928F2A453e494E7Bdc8518fA104C9b87C
+
+Crypto Devs Token Contract Address: 0xc28b665B3BF78d76Bd83c8EC271CcB7D4E2b991F
+
+FakeNFTMarketplace deployed to:  0xbA591EF132383a444F2291e6073998Fbf1Ce45C9
+CryptoDevsDAO deployed to:  0x70B82466daE890F1A65AF2B0a85eAF3Eb802a6F8
+
+Exchange Contract Address: 0xAe8e0C869d07b7E7Df0A3b75397Af0D8a57D11b8
