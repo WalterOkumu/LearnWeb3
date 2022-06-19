@@ -1,13 +1,16 @@
 node_modules
 01. Whitelist dApp/hardhat-tutorial/node_modules
 02. NFT Collection/hardhat-tutorial/node_modules
+03. Initial Coin Offering/hardhat-tutorial/node_modules
 
 01. Whitelist dApp/my-app/node_modules
 02. NFT Collection/my-app/node_modules
+03. Initial Coin Offering/my-app/node_modules
 
 .env
 01. Whitelist dApp/hardhat-tutorial/.env
-02. NFT Collection//hardhat-tutorial/.env
+02. NFT Collection/hardhat-tutorial/.env
+03. Initial Coin Offering/hardhat-tutorial/.env
 
 coverage
 coverage.json
